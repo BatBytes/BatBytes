@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey there, I'm [BatByte]!
 
-<!--
-**BatBytes/BatBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a passionate **Python Developer** with expertise in **APIs, Web Scraping, and Bot Development**. I love solving real-world problems through code and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+### 🔹 Programming Languages:
+- 🐍 Python
+- 🎯 Dart
+- 🌐 PHP, HTML, CSS
+- ⚡ JavaScript (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Bot Development:
+- 🛠️ Telethon, Pyrogram, Aiogram, Telebot
+
+### 🌍 Web & API Development:
+- ⚙️ Flask, FastAPI
+
+### 🔗 Connections & Networking:
+- 🌐 Requests, Aiohttp, Httpx, Urllib3, Selenium, WebSocket
+
+### 🗄️ Databases:
+- 💾 SQL, SQLite, Redis, MongoDB, JSON
+
+### 🛠️ Other Libraries & Tools:
+- 📊 Numpy, Pandas, Turtle, Kivy, etc.
+- 🖥️ Git, Linux, Web Scraping, Automation
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+## 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BatBytes&theme=tokyonight)
+
+## 📬 Connect with Me
+- 🔹 Telegram: [t.me/BatByte](https://t.me/BatByte)
+- 🔹 GitHub: [github.com/BatByte](https://github.com/BatBytes)
+
+---
+
+✨ **Let's build and innovate together!** 🚀
+
