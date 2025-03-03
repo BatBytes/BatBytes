@@ -5,10 +5,10 @@ I'm a passionate **Python Developer** with expertise in **APIs, Web Scraping, an
 
 ## 🚀 Skills & Technologies
 ### 🔹 Programming Languages:
-- 🐍 Python
+- 🐍 Python (Basic)
 - 🎯 Dart
 - 🌐 PHP, HTML, CSS
-- ⚡ JavaScript (Basic)
+- ⚡ JavaScript (Beginner)
 
 ### 🤖 Bot Development:
 - 🛠️ Telethon, Pyrogram, Aiogram, Telebot
@@ -26,17 +26,9 @@ I'm a passionate **Python Developer** with expertise in **APIs, Web Scraping, an
 - 📊 Numpy, Pandas, Turtle, Kivy, etc.
 - 🖥️ Git, Linux, Web Scraping, Automation
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BatBytes&theme=tokyonight)
-
 ## 📬 Connect with Me
 - 🔹 Telegram: [t.me/BatByte](https://t.me/BatByte)
 - 🔹 GitHub: [github.com/BatByte](https://github.com/BatBytes)
 
----
 
-✨ **Let's build and innovate together!** 🚀
 
