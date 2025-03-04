@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 I'm a Python Developer who loves innovations and new ideas. I am always excited to build creative solutions and push boundaries with technology!
-I'm a passionate Python Developer with expertise in APIs, Web Scraping, and Bot Development. I love solving real-world problems through code and contributing to open-source projects.
+
 
 ## 🚀 Skills & Technologies
 ### 🔹 Programming Languages:
